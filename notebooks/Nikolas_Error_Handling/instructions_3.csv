@@ -1,0 +1,4 @@
+Step,Operation,Target,Value,Condition
+1,Set,a,5,
+2,IfGreater,b,2,Multiply,a,2
+3,End,,,

@@ -1,0 +1,4 @@
+Step,Operation,Target,Value,Condition
+1,Set,x,foo,
+2,Multiply,y,x,2
+3,End,,,
